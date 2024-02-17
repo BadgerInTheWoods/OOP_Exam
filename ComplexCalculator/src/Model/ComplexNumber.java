@@ -19,6 +19,7 @@ public class ComplexNumber {
 
     @Override
     public String toString() {
-        return "(" + realPart + " + " + imaginaryPart + "i)";
+        if (imaginaryPart >= 0) { return "(" + realPart + " + " + imaginaryPart + "i)"; }
+        else { return "(" + realPart + " - " + -1 * imaginaryPart + "i)";}
     }
 }
