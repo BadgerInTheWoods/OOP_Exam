@@ -1,0 +1,4 @@
+февр. 18, 2024 3:34:55 PM Controller.impl.Calculator log
+INFO: addition of (12.0+4.0i) and (35.0+5.0i) results in (47.0+9.0i)
+февр. 18, 2024 3:40:51 PM util.Logging log
+INFO: subtraction of (13.0-43.0i) and (2.0-4.0i) results in (11.0-39.0i)
